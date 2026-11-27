@@ -1,4 +1,4 @@
-#  OJT Attendance Tracking System
+#  GEOTRACH - OJT Monitoring System
 
 ## ITPC 103 & ITPE 101
 ### Final Project Repository
@@ -14,7 +14,7 @@
 
 ## Project Description and Purpose
 
-It is a web-based OJT Attendance Tracking System designed to help CICS students of Zamboanga Peninsula Polytechnic State University (ZPPSU) record and monitor their attendance during On-the-Job Training. It aims to provide an organized way of managing attendance, verifying trainee identity, calculating rendered hours, and reducing manual recording errors.
+It is a web-based OJT Monitoring System designed to help CICS students of Zamboanga Peninsula Polytechnic State University (ZPPSU) record and monitor their attendance during On-the-Job Training. It aims to provide an organized way of managing attendance, verifying trainee identity, calculating rendered hours, and reducing manual recording errors.
 
 ## Key Features
 
@@ -44,10 +44,10 @@ It is a web-based OJT Attendance Tracking System designed to help CICS students 
 
 ## Technology Stack
 
-- Frontend: ReactJS
-- Backend: PHP (Laravel)
-- Database: MySQL
-- Face Verification: Face Biometric API
+- Frontend: Vue Vite and Tailwin
+- Backend: Python + API
+- Database: Spreadsheet
+- Location: GeoTrack
 
 ## Project Scope and Limitations
 
