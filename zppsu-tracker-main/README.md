@@ -20,7 +20,7 @@ It is a web-based OJT Monitoring System designed to help CICS students of Zamboa
 
 - Trainee Registration and Login
 - Administrator Login
-- Face Biometric Verification
+- geo location
 - Time In and Time Out
 - Automatic Rendered Hours Calculation
 - Attendance Monitoring
@@ -41,6 +41,12 @@ It is a web-based OJT Monitoring System designed to help CICS students of Zamboa
 - Manage trainee accounts.
 - Monitor and review attendance.
 - Generate attendance reports.
+
+### Sper Admin 
+-manage organization 
+-create admins 
+-manage deployment 
+-manage users approval
 
 ## Technology Stack
 
